@@ -1,0 +1,81 @@
+
+Session 1 (9am - 10:30am) and Session 2 (10:45am - 12:30pm) 
+Introduction to Machine Learning
+Unsupervised Learning: Clustering (K-means, Hierarchical Clustering)
+Unsupervised Learning: Dimensionality Reduction (PCA, ICA, MDS, SOM)
+
+Introduction to Supervised Learning
+
+Lunch (12:30pm - 1:30pm)
+
+Session 3 (1:30pm - 3pm)
+
+Fundamental Techniques of Supervised Learning: Cross-validation, Regularization and Sparsity (lasso, ridge regression, elastic net)
+Classification and Regression Trees (CART)
+Ensemble Methods (Bagging, and Random Forests)
+Session 4 (3:15pm - 4:45pm)
+
+Neural Networks and Deep Learning (Feed forward networks, Stochastic Gradient Descent, Convolutional Neural Networks, Recurrent Neural Networks)
+Intro to Tensorflow and its usage
+
+
+1. Myself working with project for full time, i have developed two innovative product which can be integrated with the current project/product or can be sell as unique product in the market.
+
+2. I had mentored the scholar group(4 developer) in the recent competation were they had developed the IOT based product for the assests management.They were the winners of the competation and went to Germany to showcase the same to Bill.
+
+3. I was the winner of the InnoJam and DemoJam(Teched), for the last year(2016).
+
+4. I was the finalist of What The Hack for this year and winner of Last year.
+
+5. Winners of the Sequoia Hack 2016 in Deep Learning track
+
+
+
+
+1. IOT product to automate the sales order creation : To have the weight sensors to determine the order and place order automatically. Then order creation screen should pre-populate the quantity, of the product for which the sensors have been maintained, during order creation
+
+2. Voice Based control of App functionality like sync , search ,Show calendar etc: In general, while driving or any industries where your hands are engaged like service industry, voice based control is very popular and an important requirement. For demonstration of the possibility of the REX to be voice control, we demonstrate a  use case like opening of calendar/Customer salesorder etc. 
+
+3. Simplify the life of sales rep(Android Wear):There are many ways life of a sales rep can be simplified, the simple ways are, he should be able to get notified in phone/wear about the upcoming visit, before a preschedule time. Moreover it should provide a navigation action, on click of which real time navigation information is provided.  Also he should be  able to trigger the sync using android wear, as a preparatory step to the visit.
+
+4. Gamify the Education and Campus Experience: Developed native android application with the capabilities of Machine Learning and NLP.
+Dexter is a virtual assistant application that provides information about schedules, campus location, library books, etc.
+
+http://events.sap.com/teched-2016-india/en/jam
+
+5 . Driver Assistance : We developed an application that takes care of you and protects you all the time when you are driving on the road even without you opening the application. When the AI sees any danger or possibility of an accident, it tells you smartly what corrective measure has to be taken so as to keep you safe.The best part is, unlike Google Maps, Google Now, Siri or any other application, you need not keep the application open and running, this works even if your phone is right in your pocket. It’s your 3 rd eye.
+
+
+All of the above ideas were developed this year. Except weightbased order creation, all other ideas has converted into products. Uniliver, Carlsberg etc are the few customers who will be using the product
+
+1. https://jam4.sapjam.com/ideas/vwFejFKNy8hvDNGQ9r3Qqo
+
+2. https://jam4.sapjam.com/ideas/g85UVf6zjF3ccsG4g7rc3N
+
+3.https://jam4.sapjam.com/ideas/ubDzoeCCx0ZLQwbOPlclEy
+
+4. https://jam4.sapjam.com/ideas/u3JGc9NU7G19GgUkSua24v
+
+
+1. Faced technical since IOT was a new field for me, but spending ampal amount of time to move away from the issue and equipment issue while developing the product. But luckily SAP has a D-Shop from where we can borrow audriono/Rashberry-PI and other tools which was required.
+
+2. Time Management: I used complete project related work bit early, then i was working innovative topic(also used to stay back after the working hours). Even my manager was supportive in this regard.
+
+3. Resource Management: Since i was the sole developer of the product, never faced such issue.
+
+4. Convincing the PO's: In this regard my manager and architect helped me by convincing the PO by providing valid reason how this can benefit the customer if we productise this.
+
+
+We can’t grow if we are constantly doing what we've have always done. Let's think out of box and implement the cutting edge technolgies to develop new skills by taking challenging tasks. So even the smallest achievements are worth being celebrated. The road to success consists of thousand small steps. Glorify each and every goal achieved. Show to your team that all of you made one more important step forward.
+
+Anand Kumar A, 9845605421, a.anand.kumar@sap.com
+
+Ronald Regan Mariya Innasi, 7259529753, ronald.reegan.mariya.innasi@sap.com
+
+
+
+/home/ubuntu/deepak/models/object_detection/output/own_resnet101/faster_rcnn_resnet101_coco_11_06_2017/model.ckpt
+
+
+
+/home/ubuntu/deepak/models/object_detection/data/own/coco_train2014_00000-of-00001.tfrecord
